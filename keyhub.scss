@@ -1,0 +1,14 @@
+$primary:       #fd8500;
+$secondary:     #202227;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+$light:         $gray-100 !default;
+$dark:          #0a0a0c;
+
+@import '/bootstrap/scss/_functions';
+@import '/bootstrap/scss/_variables';
+
+
+@import '/bootstrap/scss/bootstrap';
